@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/nusudoku/!svn/ver/189/Sudoku/src/sg/edu/nus/sudoku/gui
+END
+GameCoverPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/nusudoku/!svn/ver/107/Sudoku/src/sg/edu/nus/sudoku/gui/GameCoverPanel.java
+END
+SudokuPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/nusudoku/!svn/ver/109/Sudoku/src/sg/edu/nus/sudoku/gui/SudokuPanel.java
+END
+MainPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/nusudoku/!svn/ver/130/Sudoku/src/sg/edu/nus/sudoku/gui/MainPanel.java
+END
+SidebarPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/nusudoku/!svn/ver/183/Sudoku/src/sg/edu/nus/sudoku/gui/SidebarPanel.java
+END
+Splash.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/nusudoku/!svn/ver/169/Sudoku/src/sg/edu/nus/sudoku/gui/Splash.java
+END
+Resources.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/nusudoku/!svn/ver/183/Sudoku/src/sg/edu/nus/sudoku/gui/Resources.java
+END
+Cell.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/nusudoku/!svn/ver/107/Sudoku/src/sg/edu/nus/sudoku/gui/Cell.java
+END
+GuiFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/nusudoku/!svn/ver/183/Sudoku/src/sg/edu/nus/sudoku/gui/GuiFrame.java
+END
+WelcomePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/nusudoku/!svn/ver/182/Sudoku/src/sg/edu/nus/sudoku/gui/WelcomePanel.java
+END
+DialogBoxHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/nusudoku/!svn/ver/179/Sudoku/src/sg/edu/nus/sudoku/gui/DialogBoxHelper.java
+END
+HallOfFamePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/nusudoku/!svn/ver/159/Sudoku/src/sg/edu/nus/sudoku/gui/HallOfFamePanel.java
+END
+SettingsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/nusudoku/!svn/ver/164/Sudoku/src/sg/edu/nus/sudoku/gui/SettingsPanel.java
+END

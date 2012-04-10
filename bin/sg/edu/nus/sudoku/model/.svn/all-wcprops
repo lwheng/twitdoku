@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/nusudoku/!svn/ver/193/Sudoku/src/sg/edu/nus/sudoku/model
+END
+SudokuBoard.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/nusudoku/!svn/ver/100/Sudoku/src/sg/edu/nus/sudoku/model/SudokuBoard.java
+END
+SolverThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/nusudoku/!svn/ver/83/Sudoku/src/sg/edu/nus/sudoku/model/SolverThread.java
+END
+AvailableValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/nusudoku/!svn/ver/193/Sudoku/src/sg/edu/nus/sudoku/model/AvailableValues.java
+END
+SudokuSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/nusudoku/!svn/ver/100/Sudoku/src/sg/edu/nus/sudoku/model/SudokuSolver.java
+END
+SudokuValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/nusudoku/!svn/ver/41/Sudoku/src/sg/edu/nus/sudoku/model/SudokuValue.java
+END
+RandomSudokuGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/nusudoku/!svn/ver/100/Sudoku/src/sg/edu/nus/sudoku/model/RandomSudokuGenerator.java
+END
+SudokuCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/nusudoku/!svn/ver/193/Sudoku/src/sg/edu/nus/sudoku/model/SudokuCell.java
+END
+ValueDisplayInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/nusudoku/!svn/ver/9/Sudoku/src/sg/edu/nus/sudoku/model/ValueDisplayInterface.java
+END
+SudokuConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/nusudoku/!svn/ver/63/Sudoku/src/sg/edu/nus/sudoku/model/SudokuConstraint.java
+END

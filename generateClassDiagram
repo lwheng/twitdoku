@@ -1,0 +1,10 @@
+java -jar \
+/home/shawn/Downloads/UmlGraph-5.2.jar \
+-all \
+-private \
+-inferrel \
+-hide java \
+-output \
+- $(find src -iname *.java) > output.dot
+
+dot -Tsvg -odiagram.svg output.dot
